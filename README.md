@@ -47,7 +47,7 @@ Les échanges entre frontend et backend se font via une API REST sécurisée ave
 ### Structure Backend
 
 ```plaintext
-server/
+backend/
 ├── src/
 │   ├── main/
 │   │   ├── java/com/banque/ (code source Java)
@@ -57,7 +57,7 @@ Structure Frontend
 plaintext
 Copier
 Modifier
-client/
+frontend/
 ├── src/
 │   ├── app/ (composants Angular)
 │   ├── assets/ (images, styles)
